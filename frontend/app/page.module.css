@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+.view{
+    max-width: 100%;
+    border: 2px solid black;
+    width: 75%;
+    height: 85vh;
+    margin-top: 1%;
+}
+.background{
+    background-color: rgb(76, 73, 68);
+}
