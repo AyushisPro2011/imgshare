@@ -2,3 +2,4 @@
 /frontend/build
 /server/node_modules
 /frontend/.next
+/server/.env
